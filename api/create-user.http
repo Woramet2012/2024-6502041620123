@@ -1,0 +1,10 @@
+#Identification
+POST http://localhost:8080/api/auth/local/register
+Content-Type: application/json
+Authorization: Bearer 64cad72b54b37902491e01044803143a63afb0ca1e324a3c91b726fddbcd3a306fe4a7558e2720ce0e020dfa03a64afd7794fcd63124a33b9ce3842af6b04b3726d85f5c0cd7f9b1aa3d41b5f02b0795803c52e7e023c63b8ec8324aaaf6846ea97ca2087681f302f2a19d733b7fa35118a9b7ef400b5d268416a9875c547fda
+
+{
+    "username":"woramet",
+    "email":"s6502041620123@email.kmutnb.ac.th",
+    "password":"3yp@ssw0rd"
+}
